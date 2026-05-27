@@ -1,4 +1,4 @@
-Luminar Boutique Hotel — Relational Database Design & Implementation
+## Luminar Boutique Hotel — Relational Database Design & Implementation
 
 A fully normalized relational database for a hotel reservation and management system, designed and implemented as part of **ITCS442: Relational Database Design** at the Faculty of Information and Communication Technology, Mahidol University (Semester 2/2025).
 
